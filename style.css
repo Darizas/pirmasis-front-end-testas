@@ -1,11 +1,17 @@
 div {
+    display: flex;
     background-color: red;
     width: 50vmin;
     height: 50vmin;
+    font-size: 4vmin;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
 }
 
 p {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: lighter;
     font-size: 3vmin;
+    text-decoration: underline dotted;
 }
