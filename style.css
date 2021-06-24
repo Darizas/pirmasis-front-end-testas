@@ -1,3 +1,11 @@
 div {
     background-color: red;
+    width: 50vmin;
+    height: 50vmin;
+}
+
+p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 3vmin;
 }
